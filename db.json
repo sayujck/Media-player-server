@@ -1,0 +1,110 @@
+{
+  "uploadVideos": [
+    {
+      "id": "d6a2",
+      "caption": "Sporting CP 4-1 Man City | UCL",
+      "imgUrl": "https://img.freepik.com/premium-photo/close-up-human-eye-with-vivid-colors_1264938-254.jpg?semt=ais_hybrid",
+      "youTubeLink": "https://www.youtube.com/embed/8oC50pKc6Vc"
+    },
+    {
+      "id": "67c1",
+      "caption": "Argentina v France: Full Penalty Shoot",
+      "imgUrl": "https://gratisography.com/wp-content/uploads/2024/10/gratisography-cool-cat-800x525.jpg",
+      "youTubeLink": "https://www.youtube.com/embed/MCWJNOfJoSM"
+    }
+  ],
+  "categories": [
+    {
+      "id": "b7cf",
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "ed22",
+          "caption": "MILLIONAIRE SONG",
+          "imgUrl": "https://i.ytimg.com/vi/uiNBqLphO2Y/maxresdefault.jpg",
+          "youTubeLink": "https://www.youtube.com/embed/XO8wew38VM8"
+        }
+      ]
+    },
+    {
+      "id": "3242",
+      "categoryName": "Trailer",
+      "allVideos": [
+        {
+          "id": "d56f",
+          "caption": "Venom Trailer",
+          "imgUrl": "https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC/et00383474-klabltwbvz-portrait.jpg",
+          "youTubeLink": "https://www.youtube.com/embed/u9Mv98Gr5pY"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "f6e1",
+      "caption": "Love Insurance Kompany - Dheema Video ",
+      "youTubeLink": "https://www.youtube.com/embed/H1frBzuWqqM",
+      "timeStamp": "10/31/2024, GMT+5:30"
+    },
+    {
+      "id": "25ce",
+      "caption": "Non Copyright Music",
+      "youTubeLink": "https://www.youtube.com/embed/bF7c6PaaVQo",
+      "timeStamp": "10/31/2024, GMT+5:30"
+    },
+    {
+      "id": "040d",
+      "caption": "Love Insurance Kompany - Dheema Video ",
+      "youTubeLink": "https://www.youtube.com/embed/H1frBzuWqqM",
+      "timeStamp": "11/1/2024, GMT+5:30"
+    },
+    {
+      "id": "a01d",
+      "caption": "Non Copyright Music",
+      "youTubeLink": "https://www.youtube.com/embed/bF7c6PaaVQo",
+      "timeStamp": "11/3/2024, GMT+5:30"
+    },
+    {
+      "id": "833a",
+      "caption": "Love Insurance Kompany - Dheema Video ",
+      "youTubeLink": "https://www.youtube.com/embed/H1frBzuWqqM",
+      "timeStamp": "11/4/2024, GMT+5:30"
+    },
+    {
+      "id": "b0e0",
+      "caption": "Love Insurance Kompany - Dheema Video ",
+      "youTubeLink": "https://www.youtube.com/embed/H1frBzuWqqM",
+      "timeStamp": "11/4/2024, GMT+5:30"
+    },
+    {
+      "id": "484e",
+      "caption": "MILLIONAIRE SONG",
+      "youTubeLink": "https://www.youtube.com/embed/XO8wew38VM8",
+      "timeStamp": "11/6/2024, GMT+5:30"
+    },
+    {
+      "id": "8aa8",
+      "caption": "Venom Trailer",
+      "youTubeLink": "https://www.youtube.com/embed/u9Mv98Gr5pY",
+      "timeStamp": "11/6/2024, GMT+5:30"
+    },
+    {
+      "id": "060b",
+      "caption": "Argentina v France: Full Penalty Shoot",
+      "youTubeLink": "https://www.youtube.com/embed/MCWJNOfJoSM",
+      "timeStamp": "11/6/2024, GMT+5:30"
+    },
+    {
+      "id": "6d11",
+      "caption": "MILLIONAIRE SONG",
+      "youTubeLink": "https://www.youtube.com/embed/XO8wew38VM8",
+      "timeStamp": "11/6/2024, GMT+5:30"
+    },
+    {
+      "id": "c8fa",
+      "caption": "Venom Trailer",
+      "youTubeLink": "https://www.youtube.com/embed/u9Mv98Gr5pY",
+      "timeStamp": "11/6/2024, GMT+5:30"
+    }
+  ]
+}
